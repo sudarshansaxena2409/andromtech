@@ -1,0 +1,8 @@
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+
+RewriteRule ^(.*)$ $1.php
+RewriteRule ^company/(.*) company.php?id=$1
+
+ErrorDocument 404 /error.php 
