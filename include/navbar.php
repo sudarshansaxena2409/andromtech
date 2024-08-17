@@ -2,19 +2,20 @@
     <div class="container">
         <!--== Start Atribute Navigation ==-->
         <div class="attr-nav hidden-xs sm-display-none">
-            <ul class="social-media-dark social-top">
-                <li><a href="#" class="icofont icofont-facebook"></a></li>
-                <li><a href="#" class="icofont icofont-twitter"></a></li>
-                <li><a href="#" class="icofont icofont-linkedin"></a></li>
-                <li class="side-menu"><a href="#"><i class="icofont icofont-navigation-menu"></i></a></li>
+            <ul>
+                <li class="side-menu">
+                    <a href="#"><i class="icofont icofont-navigation-menu"></i></a>
+                </li>
             </ul>
         </div>
         <!--== End Atribute Navigation ==-->
 
         <!--== Start Header Navigation ==-->
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"> <i class="tr-icon ion-android-menu"></i> </button>
-            <div class="logo"> <a href="index.html"><img class="logo logo-display" src="assets/images/logo-white.png" alt=""> <img class="logo logo-scrolled" src="assets/images/logo-black.png" alt=""> </a> </div>
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu"><i class="tr-icon ion-android-menu"></i></button>
+            <div class="logo">
+                <a href="./"><img class="logo logo-display" src="assets/images/logo-white.png" alt="" /> <img class="logo logo-scrolled" src="assets/images/logo-black.png" alt="" /> </a>
+            </div>
         </div>
         <!--== End Header Navigation ==-->
 
@@ -59,5 +60,4 @@
         </ul>
     </div>
     <!-- End Side Menu -->
-
 </nav>

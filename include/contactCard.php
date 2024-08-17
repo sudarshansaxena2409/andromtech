@@ -12,18 +12,14 @@
                             <i class="icofont icofont-google-map font-30px white-color"></i>
                         </div>
                         <h3 class="mt-0">Our Office</h3>
-                        <div class="dis">
-                            201 Oak Street Building 27, Manchester, USA
-                        </div>
+                        <div class="dis">201 Oak Street Building 27, Manchester, USA</div>
                     </div>
                     <div class="icon-text feature-box-2 mb-30 clearfix">
                         <div class="icon">
                             <i class="icofont icofont-iphone font-30px white-color"></i>
                         </div>
                         <h3 class="mt-0">Call Us</h3>
-                        <div class="dis">
-                            +1 719-338-4628
-                        </div>
+                        <div class="dis">+1 719-338-4628</div>
                     </div>
                     <div class="icon-text feature-box-2 mb-30 clearfix">
                         <div class="icon">
@@ -35,7 +31,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
 
             <div class="col-md-6 col-sm-6 col-xs-12">
@@ -47,14 +42,14 @@
                                 <div class="col-md-6 col-sm-6">
                                     <div class="form-group">
                                         <label class="sr-only" for="name">Name</label>
-                                        <input type="text" name="name" class="md-input" id="name" placeholder="Name *" required data-error="Your Name is Required">
+                                        <input type="text" name="name" class="md-input" id="name" placeholder="Name *" required data-error="Your Name is Required" />
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6">
                                     <div class="form-group">
                                         <label class="sr-only" for="email">Email</label>
-                                        <input type="email" name="email" class="md-input" id="email" placeholder="Email *" required="" data-error="Please Enter Valid Email">
+                                        <input type="email" name="email" class="md-input" id="email" placeholder="Email *" required="" data-error="Please Enter Valid Email" />
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div>
@@ -65,13 +60,13 @@
                                 <div class="col-md-6 col-sm-6">
                                     <div class="form-group">
                                         <label class="sr-only" for="phone">Phone</label>
-                                        <input type="text" name="phone" class="md-input" id="phone" placeholder="Phone">
+                                        <input type="text" name="phone" class="md-input" id="phone" placeholder="Phone" />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6">
                                     <div class="form-group">
                                         <label class="sr-only" for="subject">Subject</label>
-                                        <input type="text" name="subject" class="md-input" id="subject" placeholder="Subject">
+                                        <input type="text" name="subject" class="md-input" id="subject" placeholder="Subject" />
                                     </div>
                                 </div>
                             </div>
@@ -85,13 +80,14 @@
                         </div>
                         <div class="col-md-12 col-sm-12">
                             <div class="text-left">
-                                <button type="submit" name="submit" class="btn btn-color btn-md btn-default btn-animate remove-margin"><span>Send <i class="ion-android-arrow-forward"></i></span></button>
+                                <button type="submit" name="submit" class="btn btn-color btn-md btn-default btn-animate remove-margin">
+                                    <span>Send <i class="ion-android-arrow-forward"></i></span>
+                                </button>
                             </div>
                         </div>
                     </div>
                 </form>
             </div>
-
         </div>
     </div>
 </div>
